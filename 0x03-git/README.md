@@ -1,1 +1,1 @@
-its a readme too 
+This is a readme
